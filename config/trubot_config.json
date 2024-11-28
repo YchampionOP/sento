@@ -1,0 +1,4 @@
+{
+    "api_token": "YOUR_TRUBOT_API_TOKEN",
+    "automation_endpoint": "https://api.trubot.com/process_feedback"
+}

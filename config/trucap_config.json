@@ -1,0 +1,10 @@
+{
+    "api_token": "YOUR_TRUCAP_API_TOKEN",
+    "api_base_url": "https://api.trucap.com/v1/extraction",
+    "organization_id": "YOUR_ORG_ID",
+    "extraction_templates": {
+        "customer_feedback": {
+            "description": "Intelligent extraction of customer feedback details"
+        }
+    }
+}
